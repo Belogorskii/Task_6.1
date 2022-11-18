@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\Task_1.dll"</Assembly>
+		<AddInId>51965326-EF16-4512-A9BC-EC447CBB56B7</AddInId>
+		<FullClassName>Task_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Первое приложение для ревит</Text>
+	</AddIn>
+</RevitAddIns>
